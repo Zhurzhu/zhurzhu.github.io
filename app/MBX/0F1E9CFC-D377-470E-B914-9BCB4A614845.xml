@@ -1,0 +1,24 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0F1E9CFC-D377-470E-B914-9BCB4A614845" platform="MtMobile" defaultW="896" defaultH="414" measureW="896" measureH="414" screenOrientation="MoLandscape" mobileScreenScale="1.77777779102325">
+  <controls controlCount="1">
+    <control controlID="07475941-C759-404C-981F-FECFE4AEAE41" controlTypeID="Shape" x="0" y="0" w="58" h="58" zOrder="0">
+      <ShadowBlur>0,5</ShadowBlur>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8A907154-A10A-4925-866D-363EB8CAB89C" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{0CA55526-C927-4718-B881-39C7F035D38F}" coords="(0,0,58,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%3C</text>
+      <textSize>32</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,290 @@
+﻿<project version="2.9" name="test" ID="3308011D-6EC2-4584-97F7-3E003DD2B662">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoLandscape" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(896,414)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="8A907154-A10A-4925-866D-363EB8CAB89C" expanded="True" code="ihgy2CQm9e" thumbCode="pWLHAWIpPG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+        <image key="D6C0DC719B000DD777E38C04295DD646.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="D8AF6588D380A8D5C7804B5D3C3CD7B6.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+        <image key="C9EEE1E943EE33C115574F430A3EF8E3.png"/>
+        <image key="6DA9A8DBB2A85080F7D2C98A9EA90BB0.png"/>
+        <image key="089829901BD2B88B1CD3624545737ABE.png"/>
+        <image key="77F3C86E1FC2F007D8EFABF35CA44751.png"/>
+        <image key="B8EBBDA16CEAB6CD26A7F988F3267A7B.png"/>
+        <image key="FDFDC7D8A7D1899A2905477B98D30C6A.png"/>
+        <image key="8CCA90D746F622C5A331F2F9561EFD92.png"/>
+        <image key="93D8064FDB94A2F141E06C66E4D37625.png"/>
+        <image key="AA936BDE686C94BD01BDA399C61FDD0D.png"/>
+        <image key="834B051A282F975DF995DD685E9B22FA.png"/>
+        <image key="86067CB6A82D6DF1F0DDC2B7DB11F796.png"/>
+        <image key="B7D88D4B2DDD182CCABF073DD134AE85.png"/>
+        <image key="5D694F999AE690E27FBCE3F0C1BA1723.png"/>
+        <image key="990C6AAB7403CF01E5AF4D9B40B7587B.png"/>
+        <image key="4C7B7A4EB04464E82E1255B86AD17483.png"/>
+        <image key="25757873FC83897A516D7C25EC5FC7F8.png"/>
+        <image key="6BF37381DE46268EFD6C2B4E4A10798D.png"/>
+        <image key="A92CAFFF13E18C1DEC4B4BF33E4897E2.png"/>
+        <image key="D56A9F319C9E617C747C672299CC5CA1.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="EE30606E50A00AEEE04238F2A59760D4.png"/>
+        <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+        <image key="0ED9D739A625442DB3D1562F379DCC3E.png"/>
+        <image key="F50E9B840C0FB24144C94EFDF1227FFD.png"/>
+      </images>
+    </page>
+    <page name="Duo" ID="C30FFA54-2EC1-48A6-AA03-697711FCA384" expanded="True" code="vKAfdZCc1a" thumbCode="vKAfdZCc1a" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+        <image key="D6C0DC719B000DD777E38C04295DD646.png"/>
+        <image key="105DAA9C44377CEFAB46DE22EA1D58EC.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="D8AF6588D380A8D5C7804B5D3C3CD7B6.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+        <image key="C9EEE1E943EE33C115574F430A3EF8E3.png"/>
+        <image key="6DA9A8DBB2A85080F7D2C98A9EA90BB0.png"/>
+        <image key="089829901BD2B88B1CD3624545737ABE.png"/>
+        <image key="77F3C86E1FC2F007D8EFABF35CA44751.png"/>
+        <image key="B8EBBDA16CEAB6CD26A7F988F3267A7B.png"/>
+        <image key="FDFDC7D8A7D1899A2905477B98D30C6A.png"/>
+        <image key="8CCA90D746F622C5A331F2F9561EFD92.png"/>
+        <image key="93D8064FDB94A2F141E06C66E4D37625.png"/>
+        <image key="AA936BDE686C94BD01BDA399C61FDD0D.png"/>
+        <image key="834B051A282F975DF995DD685E9B22FA.png"/>
+        <image key="86067CB6A82D6DF1F0DDC2B7DB11F796.png"/>
+        <image key="B7D88D4B2DDD182CCABF073DD134AE85.png"/>
+        <image key="5D694F999AE690E27FBCE3F0C1BA1723.png"/>
+        <image key="990C6AAB7403CF01E5AF4D9B40B7587B.png"/>
+        <image key="25757873FC83897A516D7C25EC5FC7F8.png"/>
+        <image key="6BF37381DE46268EFD6C2B4E4A10798D.png"/>
+        <image key="A92CAFFF13E18C1DEC4B4BF33E4897E2.png"/>
+        <image key="D56A9F319C9E617C747C672299CC5CA1.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="EE30606E50A00AEEE04238F2A59760D4.png"/>
+        <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+        <image key="0ED9D739A625442DB3D1562F379DCC3E.png"/>
+        <image key="F50E9B840C0FB24144C94EFDF1227FFD.png"/>
+      </images>
+    </page>
+    <page name="Клан" ID="0F1E9CFC-D377-470E-B914-9BCB4A614845" expanded="True" code="DR4NF1uccv" thumbCode="DR4NF1uccv" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Игра" ID="2DFCD325-94F0-415B-B8D6-29A88616FE5E" expanded="True" code="ba2azdd2z8" thumbCode="ba2azdd2z8" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Победа" ID="25CB05AF-7ABE-4723-B2E6-EF29E13D743D" expanded="True" code="WzGoUY7ZVD" thumbCode="WzGoUY7ZVD" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="333E2F3D2873AE924D59C3845A795BE3.png"/>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="5D694F999AE690E27FBCE3F0C1BA1723.png"/>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+      </images>
+    </page>
+    <page name="Поражение" ID="D77F8827-CA4D-4573-8F1C-4B577635E6D8" expanded="True" code="CAqCd6JmlE" thumbCode="CAqCd6JmlE" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="5D694F999AE690E27FBCE3F0C1BA1723.png"/>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+      </images>
+    </page>
+    <page name="Персонажи" ID="F56E001B-832D-4E74-9D85-3AD39C70AFF4" expanded="True" code="5v4v2uYfE7" thumbCode="5v4v2uYfE7" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="EBC06B62B34BE43412638AF21DE86A5D.png"/>
+        <image key="1BD57252876C84BB422798DF80B95333.png"/>
+        <image key="DAA1EDBE38300C52183BC7D22EBFC6ED.png"/>
+        <image key="A75C4C33F2EEA1A6EE3DF6B65E1622BA.png"/>
+        <image key="105DAA9C44377CEFAB46DE22EA1D58EC.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+      </images>
+    </page>
+    <page name="Персонажи2" ID="7D9BA651-BB4F-41B4-8C17-273127AEFD77" expanded="True" code="yGO83uLj5f" thumbCode="yGO83uLj5f" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="EBC06B62B34BE43412638AF21DE86A5D.png"/>
+        <image key="F27E63BC2AA710CD8C626A8BF79DEF73.png"/>
+        <image key="1BD57252876C84BB422798DF80B95333.png"/>
+        <image key="A75C4C33F2EEA1A6EE3DF6B65E1622BA.png"/>
+        <image key="105DAA9C44377CEFAB46DE22EA1D58EC.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+      </images>
+    </page>
+    <page name="Персонажи3" ID="0BC01E37-4685-4DC2-884F-E7C7F4C92120" expanded="True" code="s4qcJgycOt" thumbCode="s4qcJgycOt" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="EBC06B62B34BE43412638AF21DE86A5D.png"/>
+        <image key="1BD57252876C84BB422798DF80B95333.png"/>
+        <image key="A75C4C33F2EEA1A6EE3DF6B65E1622BA.png"/>
+        <image key="105DAA9C44377CEFAB46DE22EA1D58EC.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+        <image key="CC76494E8988AD01484B194825D063F7.png"/>
+      </images>
+    </page>
+    <page name="Рейтинг" ID="46677302-2D16-4303-8610-FFA786B9E156" expanded="True" code="wyZ2vJCgHf" thumbCode="wyZ2vJCgHf" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B21AC26EF28E96A533A906B9021D6DE6.png"/>
+        <image key="D8EAFBC18E201E2BFE6BCE40B5148195.png"/>
+        <image key="A05AEACB02A1789747C5CA4FD2EEFEDD.png"/>
+        <image key="A184B8BA7CA827BAB05FC53A89B718FC.png"/>
+        <image key="E85A38B3C28D8CE5E2491DC9297EE5F8.png"/>
+        <image key="04071D2F6376F2570A48D3B589279B7D.png"/>
+        <image key="1C806334FA4F0AF20041CABE3C2B120A.png"/>
+        <image key="8CBEC45369EC22CBE7A92D20F1939EC1.png"/>
+        <image key="D70CE44BB0FA67F3B9910A52EED5EAEC.png"/>
+      </images>
+    </page>
+    <page name="Квесты" ID="1DF2E7B5-1D1A-412E-9816-768AA459FAA0" expanded="True" code="BP13O3wUyJ" thumbCode="BP13O3wUyJ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Магазин" ID="2AEB297F-FFF5-4927-A36E-DFB54A838F06" expanded="True" code="AEOM1oanmT" thumbCode="AEOM1oanmT" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="AA936BDE686C94BD01BDA399C61FDD0D.png"/>
+        <image key="8B862A34B2FBFD85D4188D5E0F05FFF4.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="85259896AD99A4DC44420E496326EAB7.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+        <image key="F9B2009D4FF0E39C1ABE570388BA439C.png"/>
+      </images>
+    </page>
+    <page name="Уровень" ID="433E7AD2-8D3A-4DEA-9A7D-4C1B5469A2A3" expanded="True" code="Oxgn7q5mOr" thumbCode="lmNDe5eJTY" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3FD0E429A8C202864EAF8F9328869E54.png"/>
+        <image key="C55C9FB188B4C8855A2158632BC5B35B.PNG"/>
+        <image key="E71CBBCE3869CF7D33EA385A312BFB2F.png"/>
+        <image key="6BF37381DE46268EFD6C2B4E4A10798D.png"/>
+        <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Френдлист" ID="A73E2AA9-B609-4A86-B34A-784D051C193F" expanded="True" code="NmKp6yKPYn" thumbCode="KYJP4FZTD2" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Дуо" ID="B91ADF16-1506-4766-BBF1-FEAE6F6C3663" expanded="True" code="HsLDaNYNoB" thumbCode="AfVWFjU8uy" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Дуо" ID="5B4C6B61-25D0-42C7-839E-AF28C639F5CB" expanded="True" code="rRGGhPyuMk" thumbCode="g4ZlLQJqUt" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+      </images>
+    </page>
+    <page name="Ключи" ID="651F612A-1A0E-4E76-B362-090802A833DB" expanded="False" code="fBXSCDs7tM" thumbCode="UW1OQFy7TB" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Дуо" ID="A4E2E989-F4F6-478D-9DBD-61E5C8DB5093" expanded="True" code="XEr14toJFU" thumbCode="OdRLwd6tTK" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7062974BD8E0666C940E3F702C415126.png"/>
+        <image key="86067CB6A82D6DF1F0DDC2B7DB11F796.png"/>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+        <image key="D6C0DC719B000DD777E38C04295DD646.png"/>
+        <image key="4C7B7A4EB04464E82E1255B86AD17483.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="6BF37381DE46268EFD6C2B4E4A10798D.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+        <image key="EE30606E50A00AEEE04238F2A59760D4.png"/>
+        <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+        <image key="0ED9D739A625442DB3D1562F379DCC3E.png"/>
+        <image key="77F3C86E1FC2F007D8EFABF35CA44751.png"/>
+        <image key="93D8064FDB94A2F141E06C66E4D37625.png"/>
+        <image key="834B051A282F975DF995DD685E9B22FA.png"/>
+      </images>
+    </page>
+    <page name="Поражение" ID="3BA015FA-D0AE-407A-BCD8-3F28FF367178" expanded="True" code="m4UIWM1EtA" thumbCode="GCFp3wA8E3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Уровень" ID="4DE1341A-A001-4419-9839-3EBD2C90A413" expanded="True" code="3vRhC228xG" thumbCode="6TKewkqBW4" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Оружие" ID="FA061AB8-7B75-49C6-9A28-F41DA5A507BF" expanded="True" code="cLyo8RAijN" thumbCode="R8Hh7WY6q7" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Duo" ID="DF2472C5-1759-4517-8DB3-8132DC14F89E" expanded="True" code="pOMU8tj3LV" thumbCode="1QsBnEtluk" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+        <image key="D6C0DC719B000DD777E38C04295DD646.png"/>
+        <image key="105DAA9C44377CEFAB46DE22EA1D58EC.png"/>
+        <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+        <image key="D8AF6588D380A8D5C7804B5D3C3CD7B6.png"/>
+        <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+        <image key="C9EEE1E943EE33C115574F430A3EF8E3.png"/>
+        <image key="6DA9A8DBB2A85080F7D2C98A9EA90BB0.png"/>
+        <image key="089829901BD2B88B1CD3624545737ABE.png"/>
+        <image key="77F3C86E1FC2F007D8EFABF35CA44751.png"/>
+        <image key="B8EBBDA16CEAB6CD26A7F988F3267A7B.png"/>
+        <image key="FDFDC7D8A7D1899A2905477B98D30C6A.png"/>
+        <image key="8CCA90D746F622C5A331F2F9561EFD92.png"/>
+        <image key="93D8064FDB94A2F141E06C66E4D37625.png"/>
+        <image key="AA936BDE686C94BD01BDA399C61FDD0D.png"/>
+        <image key="834B051A282F975DF995DD685E9B22FA.png"/>
+        <image key="86067CB6A82D6DF1F0DDC2B7DB11F796.png"/>
+        <image key="B7D88D4B2DDD182CCABF073DD134AE85.png"/>
+        <image key="5D694F999AE690E27FBCE3F0C1BA1723.png"/>
+        <image key="4C7B7A4EB04464E82E1255B86AD17483.png"/>
+        <image key="25757873FC83897A516D7C25EC5FC7F8.png"/>
+        <image key="6BF37381DE46268EFD6C2B4E4A10798D.png"/>
+        <image key="A92CAFFF13E18C1DEC4B4BF33E4897E2.png"/>
+        <image key="D56A9F319C9E617C747C672299CC5CA1.png"/>
+        <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+        <image key="EE30606E50A00AEEE04238F2A59760D4.png"/>
+        <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+        <image key="0ED9D739A625442DB3D1562F379DCC3E.png"/>
+        <image key="F50E9B840C0FB24144C94EFDF1227FFD.png"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="F9B2009D4FF0E39C1ABE570388BA439C.png"/>
+    <image key="333E2F3D2873AE924D59C3845A795BE3.png"/>
+    <image key="610DEAFDFFECF5E5E44B78FFF3493800.png"/>
+    <image key="C9EEE1E943EE33C115574F430A3EF8E3.png"/>
+    <image key="3FD0E429A8C202864EAF8F9328869E54.png"/>
+    <image key="8B862A34B2FBFD85D4188D5E0F05FFF4.png"/>
+    <image key="8CBEC45369EC22CBE7A92D20F1939EC1.png"/>
+    <image key="FDFDC7D8A7D1899A2905477B98D30C6A.png"/>
+    <image key="D70CE44BB0FA67F3B9910A52EED5EAEC.png"/>
+    <image key="834B051A282F975DF995DD685E9B22FA.png"/>
+    <image key="86067CB6A82D6DF1F0DDC2B7DB11F796.png"/>
+    <image key="B21AC26EF28E96A533A906B9021D6DE6.png"/>
+    <image key="5D694F999AE690E27FBCE3F0C1BA1723.png"/>
+    <image key="D8EAFBC18E201E2BFE6BCE40B5148195.png"/>
+    <image key="A05AEACB02A1789747C5CA4FD2EEFEDD.png"/>
+    <image key="25757873FC83897A516D7C25EC5FC7F8.png"/>
+    <image key="1C806334FA4F0AF20041CABE3C2B120A.png"/>
+    <image key="D56A9F319C9E617C747C672299CC5CA1.png"/>
+    <image key="F27E63BC2AA710CD8C626A8BF79DEF73.png"/>
+    <image key="2EDBED3D4E6965075F0141B762B870F2.png"/>
+    <image key="1BD57252876C84BB422798DF80B95333.png"/>
+    <image key="0ED9D739A625442DB3D1562F379DCC3E.png"/>
+    <image key="A75C4C33F2EEA1A6EE3DF6B65E1622BA.png"/>
+    <image key="015164BFE58523C6717F93A10358ED50.PNG"/>
+    <image key="D6C0DC719B000DD777E38C04295DD646.png"/>
+    <image key="E71CBBCE3869CF7D33EA385A312BFB2F.png"/>
+    <image key="DAA1EDBE38300C52183BC7D22EBFC6ED.png"/>
+    <image key="E85A38B3C28D8CE5E2491DC9297EE5F8.png"/>
+    <image key="105DAA9C44377CEFAB46DE22EA1D58EC.png"/>
+    <image key="D8AF6588D380A8D5C7804B5D3C3CD7B6.png"/>
+    <image key="04071D2F6376F2570A48D3B589279B7D.png"/>
+    <image key="B0DA168E377A5B78D15405B2B76F534E.png"/>
+    <image key="6DA9A8DBB2A85080F7D2C98A9EA90BB0.png"/>
+    <image key="089829901BD2B88B1CD3624545737ABE.png"/>
+    <image key="77F3C86E1FC2F007D8EFABF35CA44751.png"/>
+    <image key="B8EBBDA16CEAB6CD26A7F988F3267A7B.png"/>
+    <image key="990C6AAB7403CF01E5AF4D9B40B7587B.png"/>
+    <image key="93D8064FDB94A2F141E06C66E4D37625.png"/>
+    <image key="8CCA90D746F622C5A331F2F9561EFD92.png"/>
+    <image key="AA936BDE686C94BD01BDA399C61FDD0D.png"/>
+    <image key="7062974BD8E0666C940E3F702C415126.png"/>
+    <image key="B7D88D4B2DDD182CCABF073DD134AE85.png"/>
+    <image key="4C7B7A4EB04464E82E1255B86AD17483.png"/>
+    <image key="6BF37381DE46268EFD6C2B4E4A10798D.png"/>
+    <image key="CC76494E8988AD01484B194825D063F7.png"/>
+    <image key="A92CAFFF13E18C1DEC4B4BF33E4897E2.png"/>
+    <image key="E7770B64C29544D77DBEF788F50FD287.png"/>
+    <image key="EBC06B62B34BE43412638AF21DE86A5D.png"/>
+    <image key="EE30606E50A00AEEE04238F2A59760D4.png"/>
+    <image key="A184B8BA7CA827BAB05FC53A89B718FC.png"/>
+    <image key="C55C9FB188B4C8855A2158632BC5B35B.PNG"/>
+    <image key="85259896AD99A4DC44420E496326EAB7.png"/>
+    <image key="F50E9B840C0FB24144C94EFDF1227FFD.png"/>
+  </images>
+</project>

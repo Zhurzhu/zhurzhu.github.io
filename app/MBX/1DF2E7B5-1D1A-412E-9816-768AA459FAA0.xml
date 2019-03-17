@@ -1,0 +1,32 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="1DF2E7B5-1D1A-412E-9816-768AA459FAA0" platform="MtMobile" defaultW="896" defaultH="414" measureW="896" measureH="414" screenOrientation="MoLandscape" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="011338C1-B225-4B04-AE6A-BFF67916EF18" controlTypeID="Tab" x="131" y="61" w="634" h="278" zOrder="0">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>Daily+quests%2C+Weekly+quests%2C+Battle+pass+progress</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="DF5CB2CB-6160-418F-8B25-34778BB113EE" controlTypeID="Shape" x="0" y="0" w="58" h="58" zOrder="1">
+      <ShadowBlur>0,5</ShadowBlur>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8A907154-A10A-4925-866D-363EB8CAB89C" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{4D38F844-2068-40FD-B2EF-9C9CE50F07D2}" coords="(0,0,58,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%3C</text>
+      <textSize>32</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

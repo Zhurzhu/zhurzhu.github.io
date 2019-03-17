@@ -1,0 +1,245 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="433E7AD2-8D3A-4DEA-9A7D-4C1B5469A2A3" platform="MtMobile" defaultW="896" defaultH="414" measureW="896" measureH="414" screenOrientation="MoLandscape" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="26">
+    <control controlID="E941AB16-A281-4E2D-815C-A3DC88BFB80C" controlTypeID="Button" x="738" y="167" w="120" h="48" zOrder="0">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="03DFE9FB-99D7-4B3F-8F95-5E48B59E6475" controlTypeID="Image" x="751" y="10" w="94" h="94" zOrder="1">
+      <ShadowBlur>0</ShadowBlur>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{787AF9F1-5D9F-45E4-A4E4-2E091084FB54}" coords="(0,0,94,94)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="12710EBC-9913-433C-A60F-E73089EE8AC8" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <URL>2EDBED3D4E6965075F0141B762B870F2.png</URL>
+    </control>
+    <control controlID="6D11D243-7CB3-4344-BF74-DBFA44BCAADA" controlTypeID="Shape" x="33" y="117" w="673" h="263" zOrder="2">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+%D0%BF%D0%BE+%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%0D%0A%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9+%D0%B3%D0%B5%D1%80%D0%BE%D0%B9%0D%0A</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1A1A57F0-B3C3-41B2-BF76-E7986ED5DA1D" controlTypeID="Button" x="738" y="274" w="120" h="48" zOrder="3">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>Facebook</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7895FDCF-E5E0-4CE0-ABF3-DDD230EC7601" controlTypeID="Button" x="738" y="332" w="120" h="48" zOrder="4">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>Google</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4AC77C69-AC81-4B18-9AB9-B34EF2AD9DB3" controlTypeID="HRule" x="130" y="82" w="533" h="12" zOrder="5">
+      <ShadowBlur>0,5</ShadowBlur>
+    </control>
+    <control controlID="2912C23B-798E-49E2-8A01-3D3B1E1125B8" controlTypeID="Label" x="130" y="90" w="20" h="27" zOrder="6">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>12</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="32B41336-4FC3-4544-9036-B01608352F6E" controlTypeID="Label" x="258" y="90" w="20" h="27" zOrder="7">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>13</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="01AB4B0E-4BD3-46D1-90A3-70694F8EA28A" controlTypeID="Circle" x="379" y="86" w="36" h="36" zOrder="8">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="65060FD2-2F92-40AF-9D4E-E9DEA0B2485E" controlTypeID="Label" x="386" y="90" w="21" h="27" zOrder="9">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>14</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3BF14510-761A-4387-A64C-BDA7D7C4CE1F" controlTypeID="Label" x="515" y="90" w="20" h="27" zOrder="10">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>15</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="72950D44-01DF-4E8B-B44A-CAA76FCBEC51" controlTypeID="Label" x="642" y="90" w="21" h="27" zOrder="11">
+      <ShadowBlur>0,5</ShadowBlur>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>16</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FE763B2B-62C4-43C8-BDD7-61FB0F703209" controlTypeID="Image" x="471" y="5" w="94" h="81" zOrder="12">
+      <ShadowBlur>0,5</ShadowBlur>
+      <URL>E71CBBCE3869CF7D33EA385A312BFB2F.png</URL>
+    </control>
+    <control controlID="EFCA964A-E780-42B7-9A6B-5C0428F5BDD8" controlTypeID="Image" x="102" y="5" w="85" h="80" zOrder="13">
+      <ShadowBlur>0,5</ShadowBlur>
+      <URL>3FD0E429A8C202864EAF8F9328869E54.png</URL>
+    </control>
+    <control controlID="44CD8FD8-D953-40DC-B69A-F9B987A88FDC" controlTypeID="Image" x="242" y="20" w="53" h="60" zOrder="14">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>6BF37381DE46268EFD6C2B4E4A10798D.png</URL>
+    </control>
+    <control controlID="93CE1479-034F-44E1-81D8-CC41FDB95551" controlTypeID="Image" x="368" y="20" w="53" h="60" zOrder="15">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>6BF37381DE46268EFD6C2B4E4A10798D.png</URL>
+    </control>
+    <control controlID="6A68FB8E-13AE-4D0D-A6CA-50839E14F094" controlTypeID="Image" x="636" y="20" w="53" h="60" zOrder="16">
+      <ShadowBlur>0</ShadowBlur>
+      <URL>6BF37381DE46268EFD6C2B4E4A10798D.png</URL>
+    </control>
+    <control controlID="84584EE7-266C-47D7-ABFB-79337DBAB1DF" controlTypeID="Shape" x="0" y="0" w="58" h="58" zOrder="17">
+      <ShadowBlur>0,5</ShadowBlur>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8A907154-A10A-4925-866D-363EB8CAB89C" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{0CA55526-C927-4718-B881-39C7F035D38F}" coords="(0,0,58,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%3C</text>
+      <textSize>32</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="96E76949-3D19-4B7B-9B9C-867355E81717" controlTypeID="Button" x="738" y="104" w="120" h="48" zOrder="18">
+      <ShadowBlur>0,5</ShadowBlur>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{949A5BEC-9CA2-48A8-9CCA-F940C1C5F8A3}" coords="(0,0,120,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="12710EBC-9913-433C-A60F-E73089EE8AC8" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+      <text>%D0%A1%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C+%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="12710EBC-9913-433C-A60F-E73089EE8AC8" controlTypeID="PopupPanel" x="-70" y="24" w="46" h="46" zOrder="19">
+      <caption>ChangeAvatar</caption>
+      <ShadowBlur>0,5</ShadowBlur>
+      <groupChildrenDescriptors>
+        <control controlID="22BFCBEA-F896-4BF7-8D39-BDA0D6572108" controlTypeID="Panel" x="0" y="0" w="896" h="414" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <ShadowBlur>0,5</ShadowBlur>
+          <groupChildrenDescriptors>
+            <control controlID="F5CCF98B-4999-4A5C-AB58-B21CF86B8D46" controlTypeID="Border" x="0" y="0" w="896" h="414" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+              <ShadowBlur>0,5</ShadowBlur>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="048DE7C3-24C3-42D4-996A-680B97B97838" controlTypeID="PopupPanelContent" x="188" y="20" w="507" h="363" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <ShadowBlur>0,5</ShadowBlur>
+          <groupChildrenDescriptors>
+            <control controlID="29C8CCB8-CFDD-42E8-A2E9-7B27FC23A71B" controlTypeID="Shape" x="0" y="0" w="507" h="363" zOrder="0">
+              <ShadowBlur>0,5</ShadowBlur>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="9D2628A6-308F-41EF-8006-1D55EA4AB781" controlTypeID="Image" x="10" y="10" w="487" h="283" zOrder="1">
+              <ShadowBlur>0,5</ShadowBlur>
+              <URL>C55C9FB188B4C8855A2158632BC5B35B.PNG</URL>
+            </control>
+            <control controlID="501BF20B-FF28-4B3A-BFFC-8CBDED50DB3E" controlTypeID="Button" x="200" y="303" w="120" h="48" zOrder="2">
+              <ShadowBlur>0,5</ShadowBlur>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="433E7AD2-8D3A-4DEA-9A7D-4C1B5469A2A3" linkType="ltPageLink" isApplyIncludePage="False" title="%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+                  <area shape="0" alt="" ID="{9FC54DE7-4500-4C36-8027-A3C03917B85E}" coords="(0,0,120,48)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" weight="400" isBold="False" isItalic="False"/>
+              <text>%D0%A1%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C+%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80</text>
+              <textSize>18</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
